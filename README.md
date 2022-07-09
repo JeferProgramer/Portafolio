@@ -17,7 +17,4 @@
 - [react-reveal](https://www.react-reveal.com/)
 - [styled-components](https://styled-components.com/)
 
-# illustrations 🍥
-
-- [UnDraw](https://undraw.co/illustrations)
 
