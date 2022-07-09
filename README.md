@@ -1,16 +1,12 @@
-# PortfolioV2
+# Portfolio Jeferson David CXañon Melo - JeferProgramer
 
-![PortfolioV2](/images/portfolio1.gif)
+# Secciones
 
-
-
-# Sections
-
-- Home
-- Education and Certificates
-- Experience
-- Projects
-- Contact and Resume
+- Inicio
+- Formacion y Certificados
+- Experencia
+- Proyectos
+- Contacto y CV
 
 # How To Use
 
