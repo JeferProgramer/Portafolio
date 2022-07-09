@@ -8,7 +8,7 @@
 - Proyectos
 - Contacto y CV
 
-# Technologies used 🛠️
+# Tecnologias usadas 🛠️
 
 - [React](https://reactjs.org/)
 - [graphql](https://graphql.org/)
